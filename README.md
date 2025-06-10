@@ -175,7 +175,7 @@ Step 13: Right click on Tables (on your databse) to observe the newly created ta
 ---
 ![Image](https://github.com/user-attachments/assets/4dd71437-3dcf-4e44-bb84-6afae5eecdfe)
 ---
-Step 14: Right click on Tables (on your databse) to observe the newly created tables
+Step 14: Check on the tables. You may decide to include some data on the database. 
 ---
 ![Image](https://github.com/user-attachments/assets/29ab00c9-1609-4000-abbe-a968c12ffbaa)
 
