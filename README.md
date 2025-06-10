@@ -153,31 +153,32 @@ CREATE TABLE [order_details] (
 
 
 ```
----
 
+---
 Step 9: 
----
-![Image](https://github.com/user-attachments/assets/a600d063-052d-4510-aed6-e43e64911beb)
----
-Step 10: 
----
-![Image](https://github.com/user-attachments/assets/007cd374-dbdf-44d0-9231-ad4bc6d2e7b0)
----
-Step 11: 
----
-![Image](https://github.com/user-attachments/assets/4dd71437-3dcf-4e44-bb84-6afae5eecdfe)
----
-Step 12: 
----
-![Image](https://github.com/user-attachments/assets/29ab00c9-1609-4000-abbe-a968c12ffbaa)
----
-Step 13: 
 ---
 ![Image](https://github.com/user-attachments/assets/254ee87b-15d3-4e2e-afa3-1dbce2b1375a)
 ---
-Step 14: 
+Step 10: 
 ---
 ![Image](https://github.com/user-attachments/assets/3899465c-6f12-415f-984b-bacad43aac0c)
+
+Step 11: 
+---
+![Image](https://github.com/user-attachments/assets/a600d063-052d-4510-aed6-e43e64911beb)
+---
+Step 12: 
+---
+![Image](https://github.com/user-attachments/assets/007cd374-dbdf-44d0-9231-ad4bc6d2e7b0)
+---
+Step 13: 
+---
+![Image](https://github.com/user-attachments/assets/4dd71437-3dcf-4e44-bb84-6afae5eecdfe)
+---
+Step 14: 
+---
+![Image](https://github.com/user-attachments/assets/29ab00c9-1609-4000-abbe-a968c12ffbaa)
+
 
 
 
