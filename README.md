@@ -1,4 +1,4 @@
-# Graphically Architecting MSSQL Server Relational Database for E Commerce Application
+# Graphically Architecting MSSQL Server Relational Database for E-Commerce Application
 
 
 
