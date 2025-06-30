@@ -13,7 +13,7 @@ After the data/system architect have specified the tables and their relationship
 ---
 
 ### **Benefits of Using Lucidchart for Entity Relationship Diagrams**
-For very complex systems, due to system intricacies and the number of engineers that may be involved in the system design, there may be errors, bugs or mismatches that are not easily detected between the architected system  and the final designed database. This is where the benefit(s) of using Lucidchart for architecting complex can be realized. Lucidchart is a visual collaborative software that everyone within a project can access, contribute to the ERDs and share the ERD updates among the team members.
+For very complex systems, due to system intricacies and the number of engineers that may be involved in the system design, there may be errors, bugs or mismatches that are not easily detected between the architected system  and the final designed database. This is where the benefit(s) of using Lucidchart for architecting complex databases can be realized. Lucidchart is a visual collaborative software that everyone within a project can access, contribute to the ERDs and share the ERD updates among the team members.
 
 In addition, Lucidchart can be used to shrink or eliminate an important step between architecting the system using ERDs and translating the archittected system to SQL codes for the target database. Eliminating this step can lead to reduction in mismatches or errors between the architected system and the final designed database. 
 
